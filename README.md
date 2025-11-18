@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, It's Sean here.</h1>
 <h3 align="center">A passionate student CS student from Taiwan🇹🇼</h3>
 
-- 🔭 I’m currently working on **Apache Airflow**
+- 🔭 I’m currently working on [Cap](https://github.com/CapSoftware/Cap)
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ruryu](https://github.com/ruryu)
+
 - 📫 How to reach me **ruryu@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sean-ko-7b865736b/](https://www.linkedin.com/in/sean-ko-7b865736b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sean k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sean ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean ko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
