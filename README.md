@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ruryu@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sean-ko-7b865736b/](https://www.linkedin.com/in/sean-ko-7b865736b/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sean-ko-7b865736b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sean-ko-7b865736b/" height="30" width="40" /></a>
