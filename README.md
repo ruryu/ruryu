@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Sean here.</h1>
 <h3 align="center">A passionate student CS student from Taiwan🇹🇼</h3>
 
-- 🔭 I’m currently working on [Cap](https://github.com/CapSoftware/Cap)
+- 🔭 I’m currently working on [QuantDashboardAI](https://github.com/kevinzeroCode/GDG-opentpi-2026)
 
 - 🌱 I’m currently learning **Machine Learning**
 
