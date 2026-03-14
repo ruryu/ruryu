@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [QuantDashboardAI](https://github.com/kevinzeroCode/GDG-opentpi-2026)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **SQL and Compiler**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruryu](https://github.com/ruryu)
 
