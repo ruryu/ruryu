@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Sean here.</h1>
-<h3 align="center">A passionate student CS student from Taiwan🇹🇼</h3>
+<h3 align="center">A passionate CS student from Taiwan🇹🇼</h3>
 
 - 🔭 I’m currently working on [QuantDashboardAI](https://github.com/kevinzeroCode/GDG-opentpi-2026)
 
