@@ -1,18 +1,42 @@
-<h1 align="center">Hi 👋, It's Sean here.</h1>
-<h3 align="center">A passionate CS student from Taiwan🇹🇼</h3>
+# Sean
 
-- 🔭 I’m currently working on [QuantDashboardAI](https://github.com/kevinzeroCode/GDG-opentpi-2026)
+- [Sean](#sean)
+  - [About Me](#about-me)
+  - [Featured Projects](#featured-projects)
+  - [Stats](#stats)
 
-- 🌱 I’m currently learning **SQL and Compiler**
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruryu](https://github.com/ruryu)
+Hi, this is Sean 👋
 
-- 📫 How to reach me **ruryu@gmail.com**
+A backend developer drifting toward AI, and a stray-dog club volunteer 🐕
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sean-ko-7b865736b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sean-ko-7b865736b/" height="30" width="40" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-313131?style=flat&logo=gmail&logoColor=white)](mailto:hsiangkunko@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-313131?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-ko123)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table>
+<thead>
+<tr><th colspan="2">Quick Info</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">Education</th><td>B.S. Computer Science, National Central University (2024 – 2028)</td></tr>
+<tr><th scope="row">Occupation</th><td>Software Intern @ MSI (AIoT Backend)</td></tr>
+<tr><th scope="row">Research</th><td>Physics-aware image editing with diffusion models</td></tr>
+<tr><th scope="row">Open Source</th><td>Merged PR in <a href="PUT_YOUR_PR_LINK_HERE">microsoft/vscode</a></td></tr>
+<tr><th scope="row">Previously</th><td>TA, Open Source Software Development @ NCU</td></tr>
+<tr><th scope="row">Skills</th><td>TypeScript, NestJS, Python, PyTorch, SQLite, Docker</td></tr>
+</tbody>
+</table>
+
+## Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [Smart Home Power Management](https://github.com/ruryu/Smart-Home-Power-Management-System) | NestJS layered backend, rule engine with unit + e2e tests, Swagger, Docker |
+| [NCU Accessibility Map](https://github.com/ruryu/Web_Project) | Flask + SQLite + Leaflet map of accessible facilities on campus |
+| [Street Program](https://github.com/ruryu/street_program) | Street View crawler → SegFormer → VLM structured analysis pipeline |
+
+## Stats
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruryu&theme=github_dark" alt="Sean's GitHub stats" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruryu&theme=github_dark" alt="Sean's top languages" />
