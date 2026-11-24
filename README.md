@@ -22,7 +22,7 @@ A backend developer drifting toward AI, and a stray-dog club volunteer 🐕
 <tr><th scope="row">Education</th><td>B.S. Computer Science, National Central University (2024 – 2028)</td></tr>
 <tr><th scope="row">Occupation</th><td>Software Intern @ MSI (AIoT Backend)</td></tr>
 <tr><th scope="row">Research</th><td>Physics-aware image editing with diffusion models</td></tr>
-<tr><th scope="row">Open Source</th><td>Merged PR in <a href="PUT_YOUR_PR_LINK_HERE">microsoft/vscode</a></td></tr>
+<tr><th scope="row">Open Source</th><td>Merged PR in <a href="https://github.com/microsoft/vscode/pull/313810">microsoft/vscode</a></td></tr>
 <tr><th scope="row">Previously</th><td>TA, Open Source Software Development @ NCU</td></tr>
 <tr><th scope="row">Skills</th><td>TypeScript, NestJS, Python, PyTorch, SQLite, Docker</td></tr>
 </tbody>
